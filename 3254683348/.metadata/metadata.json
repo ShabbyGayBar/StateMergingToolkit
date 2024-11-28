@@ -1,0 +1,13 @@
+{
+  "name" : "States merging",
+  "id" : "3254683348",
+  "version" : "",
+  "supported_game_version" : "1.7.x",
+  "short_description" : "",
+  "thumbnail" : "thumbnail.png",
+  "tags" : ["map"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
