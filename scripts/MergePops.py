@@ -9,19 +9,33 @@ def merge(this, other):
         if tag in this.keys():
             for other_pop in other[tag]["create_pop"]:
                 found = False
+                hasAttributeType = "pop_type" in other_pop
                 hasAttributeReligion = "religion" in other_pop
                 for this_pop in this[tag]["create_pop"]:
                     if other_pop["culture"] != this_pop["culture"]:
                         continue
-                    if hasAttributeReligion and "religion" in this_pop:
-                        if other_pop["religion"] == this_pop["religion"]:
+                    if hasAttributeType and "pop_type" in this_pop:
+                        if other_pop["pop_type"] == this_pop["pop_type"]:
+                            if hasAttributeReligion and "religion" in this_pop:
+                                if other_pop["religion"] == this_pop["religion"]:
+                                    this_pop["size"] = int(this_pop["size"]) + int(other_pop["size"])
+                                    found = True
+                                    break
+                            elif not hasAttributeReligion and "religion" not in this_pop:
+                                this_pop["size"] = int(this_pop["size"]) + int(other_pop["size"])
+                                found = True
+                                break
+                        continue
+                    elif not hasAttributeType and "pop_type" not in this_pop:
+                        if hasAttributeReligion and "religion" in this_pop:
+                            if other_pop["religion"] == this_pop["religion"]:
+                                this_pop["size"] = int(this_pop["size"]) + int(other_pop["size"])
+                                found = True
+                                break
+                        elif not hasAttributeReligion and "religion" not in this_pop:
                             this_pop["size"] = int(this_pop["size"]) + int(other_pop["size"])
                             found = True
                             break
-                    elif not hasAttributeReligion and "religion" not in this_pop:
-                        this_pop["size"] = int(this_pop["size"]) + int(other_pop["size"])
-                        found = True
-                        break
                 if not found:
                     this[tag]["create_pop"].append(other_pop)
         else:
