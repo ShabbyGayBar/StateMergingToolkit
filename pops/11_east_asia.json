@@ -1,0 +1,1940 @@
+{
+    "s:STATE_DZUNGARIA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "100000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "20000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "60000"
+                },
+                {
+                    "culture": "uighur",
+                    "size": "4000"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "10000"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "12000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "9000"
+                },
+                {
+                    "culture": "uighur",
+                    "size": "12000"
+                },
+                {
+                    "culture": "han",
+                    "size": "200"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "500"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "1000"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "500"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "1000"
+                },
+                {
+                    "culture": "uighur",
+                    "size": "10000"
+                }
+            ]
+        }
+    },
+    "s:STATE_TIANSHAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "1300"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "400"
+                },
+                {
+                    "culture": "uighur",
+                    "size": "340000"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "1000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "500"
+                },
+                {
+                    "culture": "kirgiz",
+                    "size": "16000"
+                },
+                {
+                    "culture": "tajik",
+                    "size": "9000"
+                },
+                {
+                    "culture": "tibetan",
+                    "size": "2000"
+                }
+            ]
+        }
+    },
+    "s:STATE_SICHUAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "4479900"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "5000000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "4096"
+                },
+                {
+                    "culture": "tibetan",
+                    "size": "1703796"
+                },
+                {
+                    "culture": "yi",
+                    "size": "1480000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "animist",
+                    "size": "1336004"
+                }
+            ]
+        }
+    },
+    "s:STATE_YUNNAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "2000000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "1778092"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "1904"
+                },
+                {
+                    "culture": "han",
+                    "religion": "animist",
+                    "size": "1416000"
+                },
+                {
+                    "culture": "zhuang",
+                    "size": "85796"
+                },
+                {
+                    "culture": "yi",
+                    "size": "608596"
+                },
+                {
+                    "culture": "yue",
+                    "size": "188000"
+                },
+                {
+                    "culture": "miao",
+                    "size": "120000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "40000"
+                }
+            ]
+        }
+    },
+    "s:STATE_GUIZHOU": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "1688452"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "1500000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "1248"
+                },
+                {
+                    "culture": "zhuang",
+                    "size": "892020"
+                },
+                {
+                    "culture": "yue",
+                    "size": "304000"
+                },
+                {
+                    "culture": "miao",
+                    "size": "236408"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "16000"
+                }
+            ]
+        }
+    },
+    "s:STATE_SHAOZHOU": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "yue",
+                    "size": "3781992"
+                },
+                {
+                    "culture": "yue",
+                    "size": "1000000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "1000000"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "564000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "size": "2068000"
+                },
+                {
+                    "culture": "han",
+                    "size": "500000",
+                    "religion": "mahayana"
+                }
+            ]
+        }
+    },
+    "s:STATE_ALXA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "mongol",
+                    "size": "42992"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "196"
+                },
+                {
+                    "culture": "han",
+                    "size": "1600"
+                }
+            ]
+        }
+    },
+    "s:STATE_HINGGAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "mongol",
+                    "size": "1123002"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "4412"
+                },
+                {
+                    "culture": "han",
+                    "size": "797003"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "200000"
+                },
+                {
+                    "culture": "han",
+                    "size": "11000",
+                    "religion": "sunni"
+                }
+            ]
+        }
+    },
+    "s:STATE_GUANGXI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "5306504"
+                },
+                {
+                    "culture": "han",
+                    "size": "2006504",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "1508"
+                },
+                {
+                    "culture": "zhuang",
+                    "size": "3212000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "zhuang",
+                    "size": "1002000"
+                },
+                {
+                    "culture": "yue",
+                    "size": "551996"
+                },
+                {
+                    "culture": "yue",
+                    "size": "2551996",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "miao",
+                    "size": "53200"
+                },
+                {
+                    "culture": "miao",
+                    "size": "253200",
+                    "religion": "mahayana"
+                }
+            ]
+        }
+    },
+    "s:STATE_BEIJING": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "11597600"
+                },
+                {
+                    "culture": "han",
+                    "size": "3001021",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "348400"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "81994"
+                }
+            ]
+        }
+    },
+    "s:STATE_SHENGJING": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "1091006"
+                },
+                {
+                    "culture": "han",
+                    "size": "201006",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "80000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "801994"
+                }
+            ]
+        }
+    },
+    "s:STATE_SOUTHERN_MANCHURIA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "manchu",
+                    "size": "5210800"
+                },
+                {
+                    "culture": "han",
+                    "size": "2511992"
+                },
+                {
+                    "culture": "han",
+                    "size": "511992",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "korean",
+                    "size": "504000"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "80412"
+                }
+            ]
+        }
+    },
+    "s:STATE_NORTHERN_MANCHURIA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "manchu",
+                    "size": "2821200"
+                },
+                {
+                    "culture": "siberian",
+                    "size": "32000"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "236404"
+                }
+            ]
+        }
+    },
+    "s:STATE_SHANXI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "11377592"
+                },
+                {
+                    "culture": "han",
+                    "size": "3300092",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "160000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "2400"
+                }
+            ]
+        }
+    },
+    "s:STATE_NINGXIA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "4637392"
+                },
+                {
+                    "culture": "han",
+                    "size": "2000392",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "2604"
+                },
+                {
+                    "culture": "han",
+                    "size": "1688000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "492200"
+                }
+            ]
+        }
+    },
+    "s:STATE_GANSU": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "3633588"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "606085"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "4408"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "1735900"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "401660"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "48000"
+                }
+            ]
+        }
+    },
+    "s:STATE_XIAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "6351000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "2000000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "6000"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "1122488"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "216304"
+                }
+            ]
+        }
+    },
+    "s:STATE_QINGHAI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "tibetan",
+                    "size": "819404"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "596"
+                },
+                {
+                    "culture": "mongol",
+                    "size": "264000"
+                },
+                {
+                    "culture": "kazak",
+                    "religion": "animist",
+                    "size": "100000"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "56000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "8004"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHONGQING": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "10546404"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "9546404"
+                }
+            ]
+        }
+    },
+    "s:STATE_GUANGDONG": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "yue",
+                    "size": "4008000"
+                },
+                {
+                    "culture": "yue",
+                    "size": "5748000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "5200"
+                },
+                {
+                    "culture": "han",
+                    "size": "774792"
+                },
+                {
+                    "culture": "min",
+                    "size": "483996"
+                },
+                {
+                    "culture": "min",
+                    "size": "403996",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "miao",
+                    "size": "356004"
+                },
+                {
+                    "culture": "miao",
+                    "size": "306004",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "zhuang",
+                    "size": "107000"
+                },
+                {
+                    "culture": "zhuang",
+                    "size": "117000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "religion": "animist",
+                    "size": "204400"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "78000"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "70000",
+                    "religion": "mahayana"
+                }
+            ]
+        },
+        "region_state:POR": {
+            "create_pop": [
+                {
+                    "culture": "yue",
+                    "size": "186000"
+                },
+                {
+                    "culture": "yue",
+                    "size": "156000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "portuguese",
+                    "size": "996"
+                },
+                {
+                    "culture": "yue",
+                    "religion": "catholic",
+                    "size": "5000"
+                }
+            ]
+        }
+    },
+    "s:STATE_FUJIAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "min",
+                    "size": "3210004"
+                },
+                {
+                    "culture": "min",
+                    "size": "6010004",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "2408"
+                },
+                {
+                    "culture": "han",
+                    "size": "3690204"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "1090204"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "1096000"
+                },
+                {
+                    "culture": "hakka",
+                    "religion": "mahayana",
+                    "size": "1006000"
+                },
+                {
+                    "culture": "miao",
+                    "size": "120004"
+                },
+                {
+                    "culture": "miao",
+                    "religion": "mahayana",
+                    "size": "100004"
+                }
+            ]
+        }
+    },
+    "s:STATE_ZHEJIANG": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "4664400"
+                },
+                {
+                    "culture": "han",
+                    "size": "2004400",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "2492"
+                },
+                {
+                    "culture": "han",
+                    "size": "2293708"
+                },
+                {
+                    "culture": "min",
+                    "religion": "animist",
+                    "size": "352000"
+                },
+                {
+                    "culture": "miao",
+                    "size": "156000"
+                }
+            ]
+        }
+    },
+    "s:STATE_JIANGSU": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "7985904"
+                },
+                {
+                    "culture": "han",
+                    "size": "3000904",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "6800"
+                }
+            ]
+        }
+    },
+    "s:STATE_NANJING": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "8080192"
+                },
+                {
+                    "culture": "han",
+                    "size": "3000092",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "52000"
+                }
+            ]
+        }
+    },
+    "s:STATE_HENAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "15338400"
+                },
+                {
+                    "culture": "han",
+                    "size": "5000400",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "5992"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "589596"
+                },
+                {
+                    "culture": "han",
+                    "religion": "jewish",
+                    "size": "1996"
+                }
+            ]
+        }
+    },
+    "s:STATE_ZHILI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "7000040"
+                },
+                {
+                    "culture": "han",
+                    "size": "1446940",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "1613"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "54528"
+                }
+            ]
+        }
+    },
+    "s:STATE_JIANGXI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "12549900"
+                },
+                {
+                    "culture": "han",
+                    "size": "4000900",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "3500"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "2000000"
+                },
+                {
+                    "culture": "hakka",
+                    "size": "2954600",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "size": "2212596"
+                },
+                {
+                    "culture": "miao",
+                    "size": "256000"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "236000"
+                }
+            ]
+        }
+    },
+    "s:STATE_SOUTHERN_ANHUI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "17473408"
+                },
+                {
+                    "culture": "han",
+                    "size": "4000408",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "2592"
+                },
+                {
+                    "culture": "han",
+                    "size": "1051996"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "304004"
+                }
+            ]
+        }
+    },
+    "s:STATE_NORTHERN_ANHUI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "7312000"
+                },
+                {
+                    "culture": "han",
+                    "size": "3002000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "348000"
+                }
+            ]
+        }
+    },
+    "s:STATE_WESTERN_HUBEI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "8116000"
+                },
+                {
+                    "culture": "han",
+                    "size": "4006000",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "144000"
+                },
+                {
+                    "culture": "han",
+                    "size": "884000"
+                }
+            ]
+        }
+    },
+    "s:STATE_EASTERN_HUBEI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "9222096"
+                },
+                {
+                    "culture": "han",
+                    "size": "4000096",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "6308"
+                },
+                {
+                    "culture": "han",
+                    "size": "160400"
+                },
+                {
+                    "culture": "han",
+                    "religion": "sunni",
+                    "size": "135996"
+                }
+            ]
+        }
+    },
+    "s:STATE_HUNAN": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "8000400"
+                },
+                {
+                    "culture": "han",
+                    "size": "4513400",
+                    "religion": "mahayana"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "4200"
+                },
+                {
+                    "culture": "yue",
+                    "size": "291996"
+                },
+                {
+                    "culture": "yue",
+                    "religion": "mahayana",
+                    "size": "201996"
+                },
+                {
+                    "culture": "miao",
+                    "size": "184000"
+                },
+                {
+                    "culture": "miao",
+                    "religion": "mahayana",
+                    "size": "204000"
+                }
+            ]
+        }
+    },
+    "s:STATE_FORMOSA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "min",
+                    "size": "1000000"
+                },
+                {
+                    "culture": "min",
+                    "religion": "mahayana",
+                    "size": "480000"
+                },
+                {
+                    "culture": "manchu",
+                    "size": "492"
+                },
+                {
+                    "culture": "han",
+                    "size": "605504"
+                },
+                {
+                    "culture": "han",
+                    "religion": "mahayana",
+                    "size": "215504"
+                },
+                {
+                    "culture": "yuanzhumin",
+                    "size": "600000"
+                }
+            ]
+        }
+    },
+    "s:STATE_SHANDONG": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "10088000"
+                },
+                {
+                    "culture": "han",
+                    "size": "5088000",
+                    "religion": "mahayana"
+                }
+            ]
+        }
+    },
+    "s:STATE_SUZHOU": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "han",
+                    "size": "10836004"
+                },
+                {
+                    "culture": "han",
+                    "size": "6836004",
+                    "religion": "mahayana"
+                }
+            ]
+        }
+    },
+    "s:STATE_ULIASTAI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "mongol",
+                    "size": "270000"
+                },
+                {
+                    "culture": "han",
+                    "size": "623"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "13000"
+                }
+            ]
+        }
+    },
+    "s:STATE_URGA": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "mongol",
+                    "size": "340000"
+                },
+                {
+                    "culture": "han",
+                    "size": "996"
+                }
+            ]
+        }
+    },
+    "s:STATE_CAMBODIA": {
+        "region_state:SIA": {
+            "create_pop": [
+                {
+                    "culture": "khmer",
+                    "size": "176400"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "khmer",
+                    "size": "5000"
+                },
+                {
+                    "culture": "yue",
+                    "size": "11996"
+                },
+                {
+                    "culture": "thai",
+                    "size": "3992"
+                }
+            ]
+        },
+        "region_state:CAM": {
+            "create_pop": [
+                {
+                    "culture": "khmer",
+                    "size": "623202"
+                },
+                {
+                    "culture": "yue",
+                    "size": "23996"
+                },
+                {
+                    "culture": "khmer",
+                    "religion": "animist",
+                    "size": "12000"
+                },
+                {
+                    "culture": "vietnamese",
+                    "size": "13002"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "khmer",
+                    "size": "40204"
+                }
+            ]
+        }
+    },
+    "s:STATE_BANGKOK": {
+        "region_state:SIA": {
+            "create_pop": [
+                {
+                    "culture": "thai",
+                    "size": "1534004"
+                },
+                {
+                    "culture": "malay",
+                    "size": "184400"
+                },
+                {
+                    "culture": "yue",
+                    "size": "154400"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "yue",
+                    "size": "30000"
+                }
+            ]
+        }
+    },
+    "s:STATE_TONKIN": {
+        "region_state:DAI": {
+            "create_pop": [
+                {
+                    "culture": "vietnamese",
+                    "size": "1241220"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "confucian",
+                    "size": "641220"
+                },
+                {
+                    "culture": "miao",
+                    "size": "96004"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "catholic",
+                    "size": "228000"
+                },
+                {
+                    "culture": "yue",
+                    "size": "28000"
+                },
+                {
+                    "culture": "min",
+                    "size": "16000"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "vietnamese",
+                    "size": "20100"
+                }
+            ]
+        }
+    },
+    "s:STATE_ANNAM": {
+        "region_state:DAI": {
+            "create_pop": [
+                {
+                    "culture": "vietnamese",
+                    "size": "1640333"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "confucian",
+                    "size": "400333"
+                },
+                {
+                    "culture": "yue",
+                    "size": "31996"
+                },
+                {
+                    "culture": "miao",
+                    "size": "87900"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "catholic",
+                    "size": "216000"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "vietnamese",
+                    "size": "30063"
+                }
+            ]
+        }
+    },
+    "s:STATE_MEKONG": {
+        "region_state:DAI": {
+            "create_pop": [
+                {
+                    "culture": "vietnamese",
+                    "size": "1002396"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "confucian",
+                    "size": "152396"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "animist",
+                    "size": "118000"
+                },
+                {
+                    "culture": "khmer",
+                    "size": "180000"
+                },
+                {
+                    "culture": "vietnamese",
+                    "religion": "catholic",
+                    "size": "116400"
+                },
+                {
+                    "culture": "yue",
+                    "size": "16000"
+                },
+                {
+                    "culture": "min",
+                    "size": "11996"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "vietnamese",
+                    "size": "60000"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "vietnamese",
+                    "religion": "animist",
+                    "size": "10000"
+                }
+            ]
+        }
+    },
+    "s:STATE_LAOS": {
+        "region_state:LUA": {
+            "create_pop": [
+                {
+                    "culture": "lao",
+                    "size": "240024"
+                },
+                {
+                    "culture": "miao",
+                    "size": "24832"
+                },
+                {
+                    "culture": "khmu",
+                    "size": "69000"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "lao",
+                    "size": "11004"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "khmu",
+                    "size": "4000"
+                }
+            ]
+        },
+        "region_state:SIA": {
+            "create_pop": [
+                {
+                    "culture": "lao",
+                    "size": "123996"
+                },
+                {
+                    "culture": "shan",
+                    "size": "17248"
+                },
+                {
+                    "culture": "thai",
+                    "size": "54560"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "lao",
+                    "size": "16000"
+                }
+            ]
+        },
+        "region_state:CHP": {
+            "create_pop": [
+                {
+                    "culture": "lao",
+                    "size": "86720"
+                },
+                {
+                    "culture": "shan",
+                    "size": "14752"
+                },
+                {
+                    "culture": "miao",
+                    "size": "35744"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "lao",
+                    "size": "5000"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHIANG_MAI": {
+        "region_state:CMI": {
+            "create_pop": [
+                {
+                    "culture": "thai",
+                    "size": "526096"
+                },
+                {
+                    "culture": "yue",
+                    "size": "12004"
+                },
+                {
+                    "culture": "shan",
+                    "size": "267500"
+                },
+                {
+                    "culture": "lao",
+                    "size": "88400"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "shan",
+                    "size": "30200"
+                }
+            ]
+        }
+    },
+    "s:STATE_NAKHON_RATCHASIMA": {
+        "region_state:SIA": {
+            "create_pop": [
+                {
+                    "culture": "lao",
+                    "size": "588000"
+                },
+                {
+                    "culture": "yue",
+                    "size": "33000"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "yue",
+                    "size": "15000"
+                },
+                {
+                    "culture": "thai",
+                    "size": "494312"
+                },
+                {
+                    "culture": "khmer",
+                    "size": "39000"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "khmer",
+                    "size": "13000"
+                }
+            ]
+        }
+    },
+    "s:STATE_TENASSERIM": {
+        "region_state:BIC": {
+            "create_pop": [
+                {
+                    "culture": "karen",
+                    "size": "180800"
+                },
+                {
+                    "culture": "british",
+                    "size": "96"
+                },
+                {
+                    "culture": "burmese",
+                    "size": "112000"
+                },
+                {
+                    "culture": "mon",
+                    "size": "8796"
+                },
+                {
+                    "culture": "thai",
+                    "size": "36004"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "karen",
+                    "size": "20000"
+                }
+            ]
+        },
+        "region_state:SIA": {
+            "create_pop": [
+                {
+                    "culture": "burmese",
+                    "size": "36000"
+                },
+                {
+                    "culture": "mon",
+                    "size": "3480"
+                },
+                {
+                    "culture": "karen",
+                    "size": "60800"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "karen",
+                    "size": "20000"
+                },
+                {
+                    "culture": "thai",
+                    "size": "44020"
+                }
+            ]
+        }
+    },
+    "s:STATE_KACHIN": {
+        "region_state:BUR": {
+            "create_pop": [
+                {
+                    "culture": "burmese",
+                    "size": "480300"
+                },
+                {
+                    "culture": "shan",
+                    "size": "59102"
+                },
+                {
+                    "culture": "kachin",
+                    "religion": "animist",
+                    "size": "43010"
+                },
+                {
+                    "culture": "kachin",
+                    "religion": "theravada",
+                    "size": "16459"
+                },
+                {
+                    "culture": "thai",
+                    "religion": "animist",
+                    "size": "18300"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "kachin",
+                    "size": "21000"
+                }
+            ]
+        }
+    },
+    "s:STATE_SHAN_STATES": {
+        "region_state:BUR": {
+            "create_pop": [
+                {
+                    "culture": "shan",
+                    "size": "330123"
+                },
+                {
+                    "culture": "shan",
+                    "size": "60102",
+                    "religion": "animist"
+                },
+                {
+                    "culture": "kachin",
+                    "size": "48300"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "shan",
+                    "size": "30200"
+                }
+            ]
+        },
+        "region_state:SHS": {
+            "create_pop": [
+                {
+                    "culture": "shan",
+                    "size": "490100"
+                },
+                {
+                    "culture": "shan",
+                    "size": "40300",
+                    "religion": "animist"
+                },
+                {
+                    "culture": "karen",
+                    "size": "18900"
+                },
+                {
+                    "culture": "karen",
+                    "religion": "animist",
+                    "size": "48300"
+                },
+                {
+                    "culture": "shan",
+                    "size": "30200"
+                }
+            ]
+        }
+    },
+    "s:STATE_MANDALAY": {
+        "region_state:BUR": {
+            "create_pop": [
+                {
+                    "culture": "burmese",
+                    "size": "840200"
+                },
+                {
+                    "culture": "shan",
+                    "size": "105012"
+                },
+                {
+                    "culture": "karen",
+                    "religion": "animist",
+                    "size": "31501"
+                },
+                {
+                    "culture": "karen",
+                    "religion": "theravada",
+                    "size": "21021"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "burmese",
+                    "size": "50200"
+                }
+            ]
+        },
+        "region_state:KKI": {
+            "create_pop": [
+                {
+                    "culture": "lushai",
+                    "size": "37012"
+                }
+            ]
+        }
+    },
+    "s:STATE_PEGU": {
+        "region_state:BUR": {
+            "create_pop": [
+                {
+                    "culture": "burmese",
+                    "size": "945030"
+                },
+                {
+                    "culture": "mon",
+                    "size": "135500"
+                },
+                {
+                    "culture": "karen",
+                    "size": "135010",
+                    "religion": "animist"
+                },
+                {
+                    "culture": "karen",
+                    "size": "67192",
+                    "religion": "theravada"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "burmese",
+                    "size": "35912"
+                }
+            ]
+        },
+        "region_state:DEN": {
+            "create_pop": [
+                {
+                    "culture": "mon",
+                    "religion": "animist",
+                    "size": "9102"
+                }
+            ]
+        },
+        "region_state:BIC": {
+            "create_pop": [
+                {
+                    "culture": "mon",
+                    "religion": "animist",
+                    "size": "1923"
+                }
+            ]
+        }
+    },
+    "s:STATE_ARAKAN": {
+        "region_state:BIC": {
+            "create_pop": [
+                {
+                    "culture": "burmese",
+                    "size": "100888"
+                },
+                {
+                    "culture": "british",
+                    "size": "432"
+                },
+                {
+                    "culture": "burmese",
+                    "religion": "sunni",
+                    "size": "60000"
+                },
+                {
+                    "culture": "bengali",
+                    "size": "7996"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "burmese",
+                    "size": "19000"
+                }
+            ]
+        },
+        "region_state:KKI": {
+            "create_pop": [
+                {
+                    "culture": "lushai",
+                    "size": "25888"
+                }
+            ]
+        }
+    },
+    "s:STATE_SAKHALIN": {
+        "region_state:SKH": {
+            "create_pop": [
+                {
+                    "culture": "ainu",
+                    "size": "24004"
+                },
+                {
+                    "culture": "siberian",
+                    "size": "16000"
+                }
+            ]
+        }
+    },
+    "s:STATE_HOKKAIDO": {
+        "region_state:AIN": {
+            "create_pop": [
+                {
+                    "culture": "ainu",
+                    "size": "29500"
+                },
+                {
+                    "culture": "japanese",
+                    "size": "831"
+                }
+            ]
+        },
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "ainu",
+                    "size": "102"
+                },
+                {
+                    "culture": "japanese",
+                    "size": "31102"
+                }
+            ]
+        }
+    },
+    "s:STATE_TOHOKU": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "2374632"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "917280"
+                }
+            ]
+        }
+    },
+    "s:STATE_KANTO": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "4050072"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "1123204"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHUBU": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "4127776"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "1745764"
+                }
+            ]
+        }
+    },
+    "s:STATE_KANSAI": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "6178176"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "1686204"
+                }
+            ]
+        }
+    },
+    "s:STATE_KYUSHU": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "3170167"
+                },
+                {
+                    "culture": "micronesian",
+                    "size": "132"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "1067036"
+                },
+                {
+                    "culture": "han",
+                    "size": "18712"
+                }
+            ]
+        }
+    },
+    "s:STATE_RYUKYU_ISLANDS": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "259181"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHUGOKU": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "2024340"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "744588"
+                }
+            ]
+        }
+    },
+    "s:STATE_SHIKOKU": {
+        "region_state:JAP": {
+            "create_pop": [
+                {
+                    "culture": "japanese",
+                    "size": "1161416"
+                },
+                {
+                    "culture": "japanese",
+                    "religion": "shinto",
+                    "size": "352420"
+                }
+            ]
+        }
+    },
+    "s:STATE_SEOUL": {
+        "region_state:KOR": {
+            "create_pop": [
+                {
+                    "culture": "korean",
+                    "size": "1832336"
+                },
+                {
+                    "culture": "korean",
+                    "religion": "mahayana",
+                    "size": "986642"
+                }
+            ]
+        }
+    },
+    "s:STATE_BUSAN": {
+        "region_state:KOR": {
+            "create_pop": [
+                {
+                    "culture": "korean",
+                    "size": "2409741"
+                },
+                {
+                    "culture": "korean",
+                    "religion": "mahayana",
+                    "size": "1186886"
+                }
+            ]
+        }
+    },
+    "s:STATE_YANGHO": {
+        "region_state:KOR": {
+            "create_pop": [
+                {
+                    "culture": "korean",
+                    "size": "2685968"
+                },
+                {
+                    "culture": "korean",
+                    "religion": "mahayana",
+                    "size": "1866519"
+                }
+            ]
+        }
+    },
+    "s:STATE_SARIWON": {
+        "region_state:KOR": {
+            "create_pop": [
+                {
+                    "culture": "korean",
+                    "size": "1053067"
+                },
+                {
+                    "culture": "korean",
+                    "religion": "mahayana",
+                    "size": "567035"
+                }
+            ]
+        }
+    },
+    "s:STATE_PYONGYANG": {
+        "region_state:KOR": {
+            "create_pop": [
+                {
+                    "culture": "korean",
+                    "size": "2528980"
+                },
+                {
+                    "culture": "korean",
+                    "religion": "mahayana",
+                    "size": "1083848"
+                }
+            ]
+        }
+    }
+}

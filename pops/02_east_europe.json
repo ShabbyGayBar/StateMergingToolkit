@@ -1,0 +1,766 @@
+{
+    "s:STATE_INGRIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "816543"
+                },
+                {
+                    "culture": "estonian",
+                    "size": "29910"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "29910"
+                },
+                {
+                    "culture": "finnish",
+                    "size": "61814"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "12961"
+                },
+                {
+                    "culture": "ugrian",
+                    "religion": "orthodox",
+                    "size": "4187"
+                },
+                {
+                    "culture": "polish",
+                    "size": "20937"
+                }
+            ]
+        }
+    },
+    "s:STATE_MOSCOW": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "1220711"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "18590"
+                }
+            ]
+        }
+    },
+    "s:STATE_ORYOL": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "3327590"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "23410"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "5122"
+                }
+            ]
+        }
+    },
+    "s:STATE_SMOLENSK": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "949892"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "7259"
+                },
+                {
+                    "culture": "polish",
+                    "size": "4148"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "68442"
+                }
+            ]
+        }
+    },
+    "s:STATE_TVER": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "1149142"
+                },
+                {
+                    "culture": "karelian",
+                    "size": "82966"
+                }
+            ]
+        }
+    },
+    "s:STATE_KURSK": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "1511408"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "678505"
+                }
+            ]
+        }
+    },
+    "s:STATE_NOVGOROD": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "801499"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "6562"
+                },
+                {
+                    "culture": "karelian",
+                    "size": "3281"
+                },
+                {
+                    "culture": "ugrian",
+                    "religion": "orthodox",
+                    "size": "5495"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "3281"
+                }
+            ]
+        }
+    },
+    "s:STATE_ROSTOV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "427520"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "179840"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "8960"
+                },
+                {
+                    "culture": "kalmyk",
+                    "size": "8320"
+                },
+                {
+                    "culture": "armenian",
+                    "size": "7040"
+                }
+            ]
+        }
+    },
+    "s:STATE_PERM": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "682318"
+                },
+                {
+                    "culture": "ugrian",
+                    "size": "5002"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "19124"
+                },
+                {
+                    "culture": "bashkir",
+                    "size": "29880"
+                },
+                {
+                    "culture": "ugrian",
+                    "religion": "orthodox",
+                    "size": "41453"
+                }
+            ]
+        }
+    },
+    "s:STATE_SILESIA": {
+        "region_state:PRU": {
+            "create_pop": [
+                {
+                    "culture": "north_german",
+                    "size": "1319008"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "16004"
+                },
+                {
+                    "culture": "polish",
+                    "size": "712800"
+                },
+                {
+                    "culture": "north_german",
+                    "religion": "catholic",
+                    "size": "228400"
+                },
+                {
+                    "culture": "czech",
+                    "religion": "catholic",
+                    "size": "60000"
+                }
+            ]
+        }
+    },
+    "s:STATE_WEST_PRUSSIA": {
+        "region_state:PRU": {
+            "create_pop": [
+                {
+                    "culture": "north_german",
+                    "size": "452400"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "2200"
+                },
+                {
+                    "culture": "polish",
+                    "religion": "protestant",
+                    "size": "144000"
+                },
+                {
+                    "culture": "polish",
+                    "size": "188400"
+                },
+                {
+                    "culture": "north_german",
+                    "religion": "catholic",
+                    "size": "8004"
+                }
+            ]
+        }
+    },
+    "s:STATE_EAST_PRUSSIA": {
+        "region_state:PRU": {
+            "create_pop": [
+                {
+                    "culture": "north_german",
+                    "size": "629796"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "2600"
+                },
+                {
+                    "culture": "lithuanian",
+                    "religion": "protestant",
+                    "size": "117196"
+                },
+                {
+                    "culture": "north_german",
+                    "religion": "catholic",
+                    "size": "81200"
+                },
+                {
+                    "culture": "polish",
+                    "religion": "protestant",
+                    "size": "28000"
+                }
+            ]
+        }
+    },
+    "s:STATE_POSEN": {
+        "region_state:PRU": {
+            "create_pop": [
+                {
+                    "culture": "north_german",
+                    "size": "540400"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "16000"
+                },
+                {
+                    "culture": "polish",
+                    "size": "871204"
+                },
+                {
+                    "culture": "north_german",
+                    "religion": "catholic",
+                    "size": "141160"
+                }
+            ]
+        }
+    },
+    "s:STATE_WEST_GALICIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "1740004"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "28000"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "152000"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "136000"
+                }
+            ]
+        },
+        "region_state:KRA": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "172396"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "4000"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "32004"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "16000"
+                }
+            ]
+        }
+    },
+    "s:STATE_EAST_GALICIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "832800"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "1544404"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "20004"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "180000"
+                }
+            ]
+        }
+    },
+    "s:STATE_CENTRAL_HUNGARY": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "size": "989200"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "932400"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "149596"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "jewish",
+                    "size": "71996"
+                },
+                {
+                    "culture": "slovak",
+                    "size": "31996"
+                }
+            ]
+        }
+    },
+    "s:STATE_BEKES": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "size": "189292"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "19996"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "288000"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "144796"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "730400"
+                },
+                {
+                    "culture": "serb",
+                    "size": "117004"
+                },
+                {
+                    "culture": "croat",
+                    "size": "20000"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "jewish",
+                    "size": "16004"
+                }
+            ]
+        }
+    },
+    "s:STATE_TRANSDANUBIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "size": "1375796"
+                },
+                {
+                    "culture": "croat",
+                    "size": "60000"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "316400"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "379204"
+                },
+                {
+                    "culture": "south_german",
+                    "religion": "protestant",
+                    "size": "1100"
+                },
+                {
+                    "culture": "slovak",
+                    "size": "128000"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "jewish",
+                    "size": "35996"
+                },
+                {
+                    "culture": "slovene",
+                    "size": "59996"
+                }
+            ]
+        }
+    },
+    "s:STATE_DELVIDEK": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "south_german",
+                    "size": "197200"
+                },
+                {
+                    "culture": "hungarian",
+                    "size": "160000"
+                },
+                {
+                    "culture": "slovak",
+                    "size": "40000"
+                },
+                {
+                    "culture": "serb",
+                    "size": "284196"
+                },
+                {
+                    "culture": "croat",
+                    "size": "36000"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "44000"
+                }
+            ]
+        }
+    },
+    "s:STATE_BANAT": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "south_german",
+                    "size": "312640"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "444620"
+                },
+                {
+                    "culture": "hungarian",
+                    "size": "57228"
+                },
+                {
+                    "culture": "croat",
+                    "size": "62296"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "jewish",
+                    "size": "732"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "1932"
+                },
+                {
+                    "culture": "serb",
+                    "size": "245256"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "64956"
+                }
+            ]
+        }
+    },
+    "s:STATE_WEST_SLOVAKIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "size": "237000"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "152800"
+                },
+                {
+                    "culture": "slovak",
+                    "size": "1140796"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "244000"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "212396"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "60400"
+                },
+                {
+                    "culture": "polish",
+                    "size": "8000"
+                }
+            ]
+        }
+    },
+    "s:STATE_EAST_SLOVAKIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "size": "150848"
+                },
+                {
+                    "culture": "slovak",
+                    "size": "606000"
+                },
+                {
+                    "culture": "polish",
+                    "size": "4000"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "164000"
+                },
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "168452"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "40400"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "60000"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "40080"
+                }
+            ]
+        }
+    },
+    "s:STATE_SOUTHERN_TRANSYLVANIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "99003"
+                },
+                {
+                    "culture": "szekely",
+                    "religion": "protestant",
+                    "size": "33001"
+                },
+                {
+                    "culture": "hungarian",
+                    "size": "45003"
+                },
+                {
+                    "culture": "szekely",
+                    "size": "15001"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "732000"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "1792"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "32800"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "87996"
+                }
+            ]
+        }
+    },
+    "s:STATE_NORTHERN_TRANSYLVANIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "hungarian",
+                    "religion": "protestant",
+                    "size": "188760"
+                },
+                {
+                    "culture": "szekely",
+                    "religion": "protestant",
+                    "size": "97240"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "388000"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "3008"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "164000"
+                },
+                {
+                    "culture": "hungarian",
+                    "size": "93720"
+                },
+                {
+                    "culture": "szekely",
+                    "size": "48280"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "32800"
+                }
+            ]
+        }
+    },
+    "s:STATE_MOLDAVIA": {
+        "region_state:AUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "20008"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "144000"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "20004"
+                },
+                {
+                    "culture": "szekely",
+                    "size": "10012"
+                },
+                {
+                    "culture": "hungarian",
+                    "size": "1986"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "144400"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "32000"
+                }
+            ]
+        },
+        "region_state:MOL": {
+            "create_pop": [
+                {
+                    "culture": "romanian",
+                    "size": "1241552"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "romanian",
+                    "size": "116857"
+                }
+            ]
+        }
+    },
+    "s:STATE_WALLACHIA": {
+        "region_state:WAL": {
+            "create_pop": [
+                {
+                    "culture": "romanian",
+                    "size": "2107689"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "romanian",
+                    "size": "120176"
+                }
+            ]
+        }
+    }
+}

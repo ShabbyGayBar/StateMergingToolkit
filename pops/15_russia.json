@@ -1,0 +1,1281 @@
+{
+    "s:STATE_VILNIUS": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "byelorussian",
+                    "size": "147130"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "258"
+                },
+                {
+                    "culture": "lithuanian",
+                    "size": "178882"
+                },
+                {
+                    "culture": "russian",
+                    "size": "40028"
+                },
+                {
+                    "culture": "polish",
+                    "size": "75418"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "2062"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "600"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "500"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "77259"
+                }
+            ]
+        }
+    },
+    "s:STATE_COURLAND": {
+        "region_state:UBD": {
+            "create_pop": [
+                {
+                    "culture": "latvian",
+                    "size": "354472"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "35872"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "26432"
+                },
+                {
+                    "culture": "russian",
+                    "size": "17936"
+                },
+                {
+                    "culture": "lithuanian",
+                    "size": "12744"
+                },
+                {
+                    "culture": "polish",
+                    "size": "9440"
+                },
+                {
+                    "culture": "ugrian",
+                    "religion": "protestant",
+                    "size": "2360"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "8496"
+                }
+            ]
+        }
+    },
+    "s:STATE_TARTU": {
+        "region_state:UBD": {
+            "create_pop": [
+                {
+                    "culture": "estonian",
+                    "size": "288007"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "2207"
+                },
+                {
+                    "culture": "russian",
+                    "size": "11175"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "9832"
+                }
+            ]
+        }
+    },
+    "s:STATE_TALINN": {
+        "region_state:UBD": {
+            "create_pop": [
+                {
+                    "culture": "estonian",
+                    "size": "280292"
+                },
+                {
+                    "culture": "russian",
+                    "size": "15800"
+                },
+                {
+                    "culture": "swedish",
+                    "size": "4424"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "12324"
+                }
+            ]
+        }
+    },
+    "s:STATE_RIGA": {
+        "region_state:UBD": {
+            "create_pop": [
+                {
+                    "culture": "latvian",
+                    "size": "362898"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "52775"
+                },
+                {
+                    "culture": "estonian",
+                    "size": "10824"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "12963"
+                },
+                {
+                    "culture": "ugrian",
+                    "religion": "protestant",
+                    "size": "900"
+                },
+                {
+                    "culture": "polish",
+                    "size": "9009"
+                },
+                {
+                    "culture": "russian",
+                    "size": "32459"
+                },
+                {
+                    "culture": "lithuanian",
+                    "size": "4118"
+                }
+            ]
+        },
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "latvian",
+                    "size": "96273"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "1621"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "24220"
+                },
+                {
+                    "culture": "polish",
+                    "size": "11746"
+                },
+                {
+                    "culture": "russian",
+                    "size": "29584"
+                },
+                {
+                    "culture": "polish",
+                    "size": "11746"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "25190"
+                }
+            ]
+        }
+    },
+    "s:STATE_KAUNAS": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "lithuanian",
+                    "size": "618377"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "124653"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "15387"
+                },
+                {
+                    "culture": "polish",
+                    "size": "136510"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "26366"
+                },
+                {
+                    "culture": "russian",
+                    "size": "44443"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "31056"
+                }
+            ]
+        }
+    },
+    "s:STATE_MAZOVIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "970792"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "180591"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "39499"
+                },
+                {
+                    "culture": "russian",
+                    "size": "53083"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "50440"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "21106"
+                }
+            ]
+        }
+    },
+    "s:STATE_GREATER_POLAND": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "2004469"
+                },
+                {
+                    "culture": "polish",
+                    "religion": "protestant",
+                    "size": "30000"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "358977"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "134245"
+                },
+                {
+                    "culture": "russian",
+                    "size": "60600"
+                }
+            ]
+        }
+    },
+    "s:STATE_LESSER_POLAND": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "633163"
+                },
+                {
+                    "culture": "polish",
+                    "religion": "protestant",
+                    "size": "26000"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "117162"
+                },
+                {
+                    "culture": "north_german",
+                    "size": "19663"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "160774"
+                },
+                {
+                    "culture": "russian",
+                    "size": "35435"
+                }
+            ]
+        }
+    },
+    "s:STATE_UUSIMAA": {
+        "region_state:FIN": {
+            "create_pop": [
+                {
+                    "culture": "swedish",
+                    "size": "101334"
+                },
+                {
+                    "culture": "finnish",
+                    "size": "436941"
+                }
+            ]
+        }
+    },
+    "s:STATE_WEST_KARELIA": {
+        "region_state:FIN": {
+            "create_pop": [
+                {
+                    "culture": "finnish",
+                    "size": "221799"
+                },
+                {
+                    "culture": "finnish",
+                    "religion": "orthodox",
+                    "size": "15000"
+                },
+                {
+                    "culture": "swedish",
+                    "size": "8715"
+                },
+                {
+                    "culture": "russian",
+                    "size": "3486"
+                }
+            ]
+        }
+    },
+    "s:STATE_ALAND": {
+        "region_state:FIN": {
+            "create_pop": [
+                {
+                    "culture": "swedish",
+                    "size": "25800"
+                },
+                {
+                    "culture": "finnish",
+                    "size": "1200"
+                }
+            ]
+        }
+    },
+    "s:STATE_OSTROBOTHNIA": {
+        "region_state:FIN": {
+            "create_pop": [
+                {
+                    "culture": "finnish",
+                    "size": "135542"
+                },
+                {
+                    "culture": "swedish",
+                    "size": "66458"
+                }
+            ]
+        }
+    },
+    "s:STATE_OULU": {
+        "region_state:FIN": {
+            "create_pop": [
+                {
+                    "culture": "finnish",
+                    "size": "116250"
+                },
+                {
+                    "culture": "swedish",
+                    "size": "1250"
+                },
+                {
+                    "culture": "sami",
+                    "size": "7500"
+                }
+            ]
+        }
+    },
+    "s:STATE_KUOPIO": {
+        "region_state:FIN": {
+            "create_pop": [
+                {
+                    "culture": "finnish",
+                    "size": "301794"
+                },
+                {
+                    "culture": "swedish",
+                    "size": "1145"
+                }
+            ]
+        }
+    },
+    "s:STATE_KOLA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "3975"
+                },
+                {
+                    "culture": "sami",
+                    "size": "1178"
+                },
+                {
+                    "culture": "finnish",
+                    "size": "737"
+                },
+                {
+                    "culture": "norwegian",
+                    "size": "126"
+                },
+                {
+                    "culture": "karelian",
+                    "size": "258"
+                }
+            ]
+        }
+    },
+    "s:STATE_EAST_KARELIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "114636"
+                },
+                {
+                    "culture": "finnish",
+                    "size": "757"
+                },
+                {
+                    "culture": "karelian",
+                    "size": "53619"
+                }
+            ]
+        }
+    },
+    "s:STATE_NENETSIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "17170"
+                },
+                {
+                    "culture": "ugrian",
+                    "size": "13904"
+                }
+            ]
+        }
+    },
+    "s:STATE_ARKHANGELSK": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "238520"
+                }
+            ]
+        }
+    },
+    "s:STATE_GALICH": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "682176"
+                },
+                {
+                    "culture": "ugrian",
+                    "religion": "orthodox",
+                    "size": "64328"
+                }
+            ]
+        }
+    },
+    "s:STATE_BREST": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "byelorussian",
+                    "size": "512334"
+                },
+                {
+                    "culture": "lithuanian",
+                    "size": "10524"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "133659"
+                },
+                {
+                    "culture": "polish",
+                    "size": "22504"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "59387"
+                },
+                {
+                    "culture": "russian",
+                    "size": "32924"
+                }
+            ]
+        }
+    },
+    "s:STATE_MINSK": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "polish",
+                    "size": "29910"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "569714"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "149520"
+                },
+                {
+                    "culture": "russian",
+                    "size": "38883"
+                }
+            ]
+        }
+    },
+    "s:STATE_MOGILEV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "23216"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "514176"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "81190"
+                },
+                {
+                    "culture": "polish",
+                    "size": "6240"
+                }
+            ]
+        }
+    },
+    "s:STATE_VITEBSK": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "45399"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "317823"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "37901"
+                },
+                {
+                    "culture": "polish",
+                    "size": "5933"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "3077"
+                }
+            ]
+        }
+    },
+    "s:STATE_VOLHYNIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "526356"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "94529"
+                },
+                {
+                    "culture": "polish",
+                    "size": "44400"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "40819"
+                },
+                {
+                    "culture": "czech",
+                    "size": "10026"
+                },
+                {
+                    "culture": "russian",
+                    "size": "716"
+                }
+            ]
+        }
+    },
+    "s:STATE_KIEV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "2610320"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "30125"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "486660"
+                },
+                {
+                    "culture": "polish",
+                    "size": "72740"
+                },
+                {
+                    "culture": "russian",
+                    "size": "87600"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "26316"
+                }
+            ]
+        }
+    },
+    "s:STATE_CRIMEA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "24006"
+                },
+                {
+                    "culture": "russian",
+                    "size": "72719"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "75704"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "12010"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "9388"
+                },
+                {
+                    "culture": "bulgarian",
+                    "size": "2816"
+                },
+                {
+                    "culture": "greek",
+                    "size": "6582"
+                },
+                {
+                    "culture": "armenian",
+                    "size": "2626"
+                },
+                {
+                    "culture": "polish",
+                    "size": "2097"
+                },
+                {
+                    "culture": "czech",
+                    "size": "239"
+                },
+                {
+                    "culture": "estonian",
+                    "size": "318"
+                },
+                {
+                    "culture": "turkish",
+                    "size": "427"
+                },
+                {
+                    "culture": "south_italian",
+                    "size": "326"
+                }
+            ]
+        }
+    },
+    "s:STATE_KHARKOV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "2592964"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "87678"
+                },
+                {
+                    "culture": "russian",
+                    "size": "276118"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHERSON": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "593470"
+                },
+                {
+                    "culture": "russian",
+                    "size": "203300"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "86140"
+                },
+                {
+                    "culture": "romanian",
+                    "size": "39420"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "32500"
+                },
+                {
+                    "culture": "polish",
+                    "size": "8030"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHERNIHIV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "949520"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "71500"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "94380"
+                },
+                {
+                    "culture": "russian",
+                    "size": "308880"
+                }
+            ]
+        }
+    },
+    "s:STATE_TAURIDA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "ukrainian",
+                    "size": "872404"
+                },
+                {
+                    "culture": "russian",
+                    "size": "270677"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "55930"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "57928"
+                },
+                {
+                    "culture": "greek",
+                    "size": "20170"
+                },
+                {
+                    "culture": "bulgarian",
+                    "size": "19032"
+                }
+            ]
+        }
+    },
+    "s:STATE_BESSARABIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "romanian",
+                    "size": "303466"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "81600"
+                },
+                {
+                    "culture": "russian",
+                    "size": "43520"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "54400"
+                },
+                {
+                    "culture": "bulgarian",
+                    "size": "28832"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "16864"
+                },
+                {
+                    "culture": "turkish",
+                    "religion": "orthodox",
+                    "size": "15776"
+                }
+            ]
+        }
+    },
+    "s:STATE_NORTH_CAUCASUS": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "62731"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "16443"
+                },
+                {
+                    "culture": "chechen",
+                    "size": "21197"
+                },
+                {
+                    "culture": "north_caucasian",
+                    "size": "79030"
+                },
+                {
+                    "culture": "circassian",
+                    "size": "5050"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "15405"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "2513"
+                }
+            ]
+        },
+        "region_state:CHC": {
+            "create_pop": [
+                {
+                    "culture": "chechen",
+                    "size": "85000"
+                },
+                {
+                    "culture": "north_caucasian",
+                    "size": "21000"
+                }
+            ]
+        },
+        "region_state:CIR": {
+            "create_pop": [
+                {
+                    "culture": "circassian",
+                    "size": "57809"
+                },
+                {
+                    "culture": "north_caucasian",
+                    "size": "13000"
+                }
+            ]
+        }
+    },
+    "s:STATE_ELIZAVETPOL": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "azerbaijani",
+                    "size": "91660"
+                },
+                {
+                    "culture": "azerbaijani",
+                    "religion": "sunni",
+                    "size": "55000"
+                },
+                {
+                    "culture": "kurdish",
+                    "size": "12999"
+                },
+                {
+                    "culture": "russian",
+                    "size": "2909"
+                },
+                {
+                    "culture": "armenian",
+                    "size": "92855"
+                },
+                {
+                    "culture": "south_german",
+                    "size": "681"
+                },
+                {
+                    "culture": "north_caucasian",
+                    "size": "4691"
+                }
+            ]
+        }
+    },
+    "s:STATE_STAVROPOL": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "289248"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "191784"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "12054"
+                },
+                {
+                    "culture": "turkmen",
+                    "size": "8908"
+                },
+                {
+                    "culture": "kalmyk",
+                    "size": "6288"
+                }
+            ]
+        }
+    },
+    "s:STATE_KALMYKIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "kalmyk",
+                    "size": "123512"
+                },
+                {
+                    "culture": "russian",
+                    "size": "2250"
+                }
+            ]
+        }
+    },
+    "s:STATE_PSKOV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "680165"
+                },
+                {
+                    "culture": "estonian",
+                    "size": "7189"
+                },
+                {
+                    "culture": "latvian",
+                    "size": "7109"
+                },
+                {
+                    "culture": "ashkenazi",
+                    "size": "4739"
+                },
+                {
+                    "culture": "polish",
+                    "size": "2872"
+                },
+                {
+                    "culture": "finnish",
+                    "size": "2513"
+                },
+                {
+                    "culture": "byelorussian",
+                    "size": "2298"
+                }
+            ]
+        }
+    },
+    "s:STATE_YAROSLAVL": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "3005300"
+                },
+                {
+                    "culture": "ugrian",
+                    "size": "4795"
+                }
+            ]
+        }
+    },
+    "s:STATE_RYAZAN": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "1235720"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "7452"
+                }
+            ]
+        }
+    },
+    "s:STATE_TAMBOV": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "2383492"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "218090"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "42697"
+                }
+            ]
+        }
+    },
+    "s:STATE_NIZHNY_NOVGOROD": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "1432715"
+                },
+                {
+                    "culture": "chuvash",
+                    "size": "34193"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "58187"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "57838"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHUVASHIA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "173968"
+                },
+                {
+                    "culture": "chuvash",
+                    "size": "240262"
+                },
+                {
+                    "culture": "mari",
+                    "size": "87860"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "17154"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "36199"
+                }
+            ]
+        }
+    },
+    "s:STATE_VYATKA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "1215648"
+                },
+                {
+                    "culture": "udmurt",
+                    "size": "211680"
+                },
+                {
+                    "culture": "mari",
+                    "size": "24192"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "60480"
+                }
+            ]
+        }
+    },
+    "s:STATE_UFA": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "bashkir",
+                    "size": "156746"
+                },
+                {
+                    "culture": "russian",
+                    "size": "137400"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "44970"
+                },
+                {
+                    "culture": "mari",
+                    "size": "13488"
+                },
+                {
+                    "culture": "chuvash",
+                    "size": "10220"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "6711"
+                }
+            ]
+        }
+    },
+    "s:STATE_CHELYABINSK": {
+        "region_state:KZH": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "27045"
+                },
+                {
+                    "culture": "bashkir",
+                    "size": "34132"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "39601"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "9149"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "4978"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "5785"
+                },
+                {
+                    "culture": "chuvash",
+                    "size": "1346"
+                }
+            ]
+        },
+        "region_state:OZH": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "22140"
+                },
+                {
+                    "culture": "kazak",
+                    "size": "34440"
+                },
+                {
+                    "culture": "ukrainian",
+                    "size": "3780"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "420"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "710"
+                }
+            ]
+        },
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "278355"
+                },
+                {
+                    "culture": "bashkir",
+                    "size": "46034"
+                },
+                {
+                    "culture": "mordvin",
+                    "size": "1218"
+                }
+            ]
+        }
+    },
+    "s:STATE_URAL": {
+        "region_state:RUS": {
+            "create_pop": [
+                {
+                    "culture": "russian",
+                    "size": "320760"
+                },
+                {
+                    "culture": "ugrian",
+                    "size": "23760"
+                },
+                {
+                    "culture": "bashkir",
+                    "size": "13484"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "19800"
+                }
+            ]
+        }
+    },
+    "s:STATE_ALTAI": {
+        "region_state:CHI": {
+            "create_pop": [
+                {
+                    "culture": "mongol",
+                    "religion": "animist",
+                    "size": "22940"
+                },
+                {
+                    "culture": "tatar",
+                    "size": "3410"
+                },
+                {
+                    "culture": "russian",
+                    "size": "4650"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "s:STATE_SAN_SALVADOR": {
+        "region_state:UCA": {
+            "create_pop": [
+                {
+                    "culture": "central_american",
+                    "size": "428204"
+                }
+            ]
+        }
+    },
+    "s:STATE_GUATEMALA": {
+        "region_state:UCA": {
+            "create_pop": [
+                {
+                    "culture": "central_american",
+                    "size": "164404"
+                },
+                {
+                    "culture": "mayan",
+                    "size": "312000"
+                }
+            ]
+        },
+        "region_state:GBR": {
+            "create_pop": [
+                {
+                    "culture": "afro_caribbean",
+                    "size": "7104"
+                },
+                {
+                    "culture": "british",
+                    "size": "104"
+                }
+            ]
+        }
+    },
+    "s:STATE_HONDURAS": {
+        "region_state:UCA": {
+            "create_pop": [
+                {
+                    "culture": "central_american",
+                    "size": "385204"
+                },
+                {
+                    "culture": "miskito",
+                    "size": "3000"
+                }
+            ]
+        }
+    },
+    "s:STATE_NICARAGUA": {
+        "region_state:UCA": {
+            "create_pop": [
+                {
+                    "culture": "central_american",
+                    "size": "284000"
+                },
+                {
+                    "culture": "miskito",
+                    "size": "4000"
+                }
+            ]
+        },
+        "region_state:MKT": {
+            "create_pop": [
+                {
+                    "culture": "miskito",
+                    "size": "30000"
+                },
+                {
+                    "culture": "miskito",
+                    "religion": "protestant",
+                    "size": "10000"
+                },
+                {
+                    "culture": "afro_caribbean",
+                    "size": "20000"
+                },
+                {
+                    "culture": "afro_caribeno",
+                    "size": "500"
+                },
+                {
+                    "culture": "british",
+                    "size": "500"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "afro_caribeno",
+                    "size": "1000"
+                }
+            ]
+        }
+    },
+    "s:STATE_COSTA_RICA": {
+        "region_state:UCA": {
+            "create_pop": [
+                {
+                    "culture": "central_american",
+                    "size": "83992"
+                }
+            ]
+        }
+    },
+    "s:STATE_PANAMA": {
+        "region_state:CLM": {
+            "create_pop": [
+                {
+                    "culture": "central_american",
+                    "size": "87792"
+                },
+                {
+                    "culture": "afro_caribeno",
+                    "size": "28300"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "afro_caribeno",
+                    "size": "4100"
+                },
+                {
+                    "culture": "north_andean",
+                    "size": "4000"
+                },
+                {
+                    "culture": "cariban",
+                    "size": "4000"
+                }
+            ]
+        }
+    },
+    "s:STATE_HAITI": {
+        "region_state:HAI": {
+            "create_pop": [
+                {
+                    "culture": "afro_antillean",
+                    "size": "830824"
+                },
+                {
+                    "culture": "afro_antillean",
+                    "size": "8060"
+                },
+                {
+                    "culture": "afro_caribeno",
+                    "size": "13543"
+                },
+                {
+                    "culture": "caribeno",
+                    "size": "5120"
+                },
+                {
+                    "culture": "spanish",
+                    "size": "121"
+                },
+                {
+                    "culture": "polish",
+                    "size": "390"
+                },
+                {
+                    "culture": "afro_american",
+                    "size": "212"
+                }
+            ]
+        }
+    },
+    "s:STATE_SANTO_DOMINGO": {
+        "region_state:HAI": {
+            "create_pop": [
+                {
+                    "culture": "afro_antillean",
+                    "size": "4007"
+                },
+                {
+                    "culture": "caribeno",
+                    "size": "100626"
+                },
+                {
+                    "culture": "caribeno",
+                    "size": "1013"
+                },
+                {
+                    "culture": "afro_caribeno",
+                    "size": "19896"
+                },
+                {
+                    "culture": "spanish",
+                    "size": "3834"
+                },
+                {
+                    "culture": "afro_american",
+                    "size": "2154"
+                }
+            ]
+        }
+    },
+    "s:STATE_PUERTO_RICO": {
+        "region_state:SPA": {
+            "create_pop": [
+                {
+                    "culture": "caribeno",
+                    "size": "182500"
+                },
+                {
+                    "culture": "afro_caribeno",
+                    "size": "168400"
+                },
+                {
+                    "culture": "spanish",
+                    "size": "5904"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "afro_caribeno",
+                    "size": "42000"
+                }
+            ]
+        }
+    },
+    "s:STATE_BAHAMAS": {
+        "region_state:GBR": {
+            "create_pop": [
+                {
+                    "culture": "british",
+                    "size": "19200"
+                },
+                {
+                    "culture": "afro_caribbean",
+                    "size": "100400"
+                }
+            ]
+        }
+    },
+    "s:STATE_WEST_INDIES": {
+        "region_state:FRA": {
+            "create_pop": [
+                {
+                    "culture": "french",
+                    "size": "22200"
+                },
+                {
+                    "culture": "afro_antillean",
+                    "size": "216104"
+                }
+            ]
+        },
+        "region_state:DEN": {
+            "create_pop": [
+                {
+                    "culture": "danish",
+                    "size": "3992"
+                },
+                {
+                    "culture": "afro_caribbean",
+                    "size": "39996"
+                }
+            ]
+        },
+        "region_state:GBR": {
+            "create_pop": [
+                {
+                    "culture": "british",
+                    "size": "34704"
+                },
+                {
+                    "culture": "afro_caribbean",
+                    "size": "234768"
+                },
+                {
+                    "culture": "dutch",
+                    "size": "396"
+                }
+            ]
+        }
+    },
+    "s:STATE_JAMAICA": {
+        "region_state:GBR": {
+            "create_pop": [
+                {
+                    "culture": "afro_caribbean",
+                    "size": "358596"
+                },
+                {
+                    "culture": "british",
+                    "size": "23040"
+                }
+            ]
+        }
+    },
+    "s:STATE_CUBA": {
+        "region_state:CUB": {
+            "create_pop": [
+                {
+                    "culture": "caribeno",
+                    "size": "461304"
+                },
+                {
+                    "culture": "afro_caribeno",
+                    "size": "152011"
+                },
+                {
+                    "pop_type": "slaves",
+                    "culture": "afro_caribeno",
+                    "size": "288786"
+                },
+                {
+                    "culture": "spanish",
+                    "size": "22004"
+                }
+            ]
+        }
+    }
+}
