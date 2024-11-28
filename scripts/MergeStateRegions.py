@@ -5,7 +5,7 @@ import re
 seq_str = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight"]
 
 class state:
-    '''Class for state objects in 'C:/Users/ASUS/Documents/Codes/Vic3/states'
+    '''Class for state objects in 'StateMergingToolkit/map_data'
     name: string, state name
     id: int, state id
     subsistence_building: string, what kind of subsistence building the state has
@@ -194,7 +194,7 @@ class state:
 
 
 # Destination directory
-states_file = 'C:/Users/ASUS/Documents/Codes/Vic3/states/05_north_america.json'
+states_file = 'StateMergingToolkit/map_data/05_north_america.json'
 
 # Read states from json
 states = {}
@@ -205,7 +205,7 @@ for state_name in states_dict.keys():
     states[state_name] = state(state_name, states_dict)
 
 # Merge states
-merge_file = 'C:/Users/ASUS/Documents/Codes/Vic3/states/merge_states.json'
+merge_file = 'StateMergingToolkit/merge_states.json'
 with open(merge_file, 'r', encoding='utf-8') as file:
     merge_dict = json.load(file)
     for diner, food_list in merge_dict.items():
@@ -216,7 +216,7 @@ with open(merge_file, 'r', encoding='utf-8') as file:
                 states.pop(food)
 
 # Export states
-output_file = 'C:/Users/ASUS/Documents/Codes/Vic3/states/05_north_america.txt'
+output_file = 'StateMergingToolkit/map_data/05_north_america.txt'
 with open(output_file, 'w', encoding='utf-8') as file:
     for state_name in states.keys():
         file.write(states[state_name].export())

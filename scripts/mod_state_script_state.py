@@ -9,10 +9,7 @@ base_game_dir = {
     # "PM Groups": r"G:/SteamLibrary/steamapps/common/Victoria 3/game/common/production_method_groups",
     # "PMs": r"G:/SteamLibrary/steamapps/common/Victoria 3/game/common/production_methods",
     # "Ideologies": r"G:/SteamLibrary/steamapps/common/Victoria 3/game/common/ideologies",
-    # "States": r"C:/Users/ASUS/Documents/Codes/Victoria-3-files/game/map_data/state_regions",
-    # "Pops": r"C:/Users/ASUS/Documents/Codes/Vic3/mod",
-    # "Buildings": r"C:/Users/ASUS/Documents/Codes/StateMergingDevToolkit/mod",
-    "States": r"C:/Users/ASUS/Documents/Codes/StateMergingDevToolkit/mod",
+    "States": r"StateMergingToolkit/mod",
 }
 
 mod_dir = {
@@ -22,10 +19,7 @@ mod_dir = {
     # "PM Groups": r"F:/Libraries/Documents/Paradox Interactive/Victoria 3/mod/Production Methods/common/production_method_groups",
     # "PMs": r"F:/Libraries/Documents/Paradox Interactive/Victoria 3/mod/Production Methods/common/production_methods",
     # "Ideologies": r"F:/Libraries/Documents/Paradox Interactive/Victoria 3/mod/Production Methods/common/ideologies",
-    # "States": r"C:/Users/ASUS/Documents/Codes/Vic3/mod",
-    # "Pops": r"C:/Users/ASUS/Documents/Codes/Vic3/output",
-    # "Buildings": r"C:/Users/ASUS/Documents/Codes/StateMergingDevToolkit/output",
-    "States": r"C:/Users/ASUS/Documents/Codes/StateMergingDevToolkit/output",
+    "States": r"StateMergingToolkit/output",
 }
 
 mod_state = ModState(base_game_dir, mod_dir)

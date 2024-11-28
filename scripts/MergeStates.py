@@ -75,14 +75,14 @@ def export(this, name):
 
 
 # Destination directory
-states_file = 'StateMergingDevToolkit\\states\\00_states.json'
+states_file = 'StateMergingToolkit\\states\\00_states.json'
 
 # Read states from json
 with open(states_file, 'r', encoding='utf-8') as file:
     state_dict = json.load(file)
 
 # Merge states
-merge_file = 'StateMergingDevToolkit\\merge_states.json'
+merge_file = 'StateMergingToolkit\\merge_states.json'
 with open(merge_file, 'r', encoding='utf-8') as file:
     merge_dict = json.load(file)
 
@@ -95,7 +95,7 @@ for diner, food_list in merge_dict.items():
             state_dict.pop("s:"+food)
 
 # Export states
-output_file = 'StateMergingDevToolkit\\states\\00_states.txt'
+output_file = 'StateMergingToolkit\\states\\00_states.txt'
 with open(output_file, 'w', encoding='utf-8') as file:
     file.write('STATES = {\n')
     for state_name in state_dict.keys():

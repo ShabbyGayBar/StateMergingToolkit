@@ -59,14 +59,14 @@ def export(this, name):
 
 
 # Destination directory
-pops_file = 'C:/Users/ASUS/Documents/Codes/Vic3/pops/05_north_america.json'
+pops_file = 'StateMergingToolkit/pops/05_north_america.json'
 
 # Read states from json
 with open(pops_file, 'r', encoding='utf-8') as file:
     pop_dict = json.load(file)
 
 # Merge states
-merge_file = 'C:/Users/ASUS/Documents/Codes/Vic3/merge_states.json'
+merge_file = 'StateMergingToolkit/merge_states.json'
 with open(merge_file, 'r', encoding='utf-8') as file:
     merge_dict = json.load(file)
     for diner, food_list in merge_dict.items():
@@ -77,7 +77,7 @@ with open(merge_file, 'r', encoding='utf-8') as file:
                 pop_dict.pop("s:"+food)
 
 # Export states
-output_file = 'C:/Users/ASUS/Documents/Codes/Vic3/pops/05_north_america.txt'
+output_file = 'StateMergingToolkit/pops/05_north_america.txt'
 with open(output_file, 'w', encoding='utf-8') as file:
     file.write('POPS = {\n')
     for state_name in pop_dict.keys():

@@ -160,14 +160,14 @@ def export(this, name):
 
 
 # Destination directory
-buildings_file = 'StateMergingDevToolkit\\buildings\\05_north_america.json'
+buildings_file = 'StateMergingToolkit\\buildings\\05_north_america.json'
 
 # Read states from json
 with open(buildings_file, 'r', encoding='utf-8') as file:
     building_dict = json.load(file)
 
 # Merge states
-merge_file = 'StateMergingDevToolkit\\merge_states.json'
+merge_file = 'StateMergingToolkit\\merge_states.json'
 with open(merge_file, 'r', encoding='utf-8') as file:
     merge_dict = json.load(file)
 
@@ -200,7 +200,7 @@ for diner, food_list in merge_dict.items():
             building_dict.pop("s:"+food)
 
 # Export states
-output_file = 'StateMergingDevToolkit\\buildings\\05_north_america.txt'
+output_file = 'StateMergingToolkit\\buildings\\05_north_america.txt'
 with open(output_file, 'w', encoding='utf-8') as file:
     file.write('BUILDINGS = {\n')
     for state_name in building_dict.keys():
