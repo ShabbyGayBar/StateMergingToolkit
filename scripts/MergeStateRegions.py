@@ -147,6 +147,13 @@ class state:
             self.wood = other.wood
         if self.naval_exit_id == -1:
             self.naval_exit_id = other.naval_exit_id
+        # clear provinces, impassable, traits, arable_land, arable_resources, capped_resources of other
+        other.provinces = []
+        other.impassable = []
+        other.traits = []
+        other.arable_land = 0
+        other.arable_resources = []
+        other.capped_resources = {}
  
     def export(self):
         '''Export the state object to a string
@@ -213,7 +220,7 @@ with open(merge_file, 'r', encoding='utf-8') as file:
             if food in states.keys():
                 states[diner].merge(states[food])
                 print(f'Merged {food} into {diner}')
-                states.pop(food)
+                # states.pop(food)
 
 # Export states
 output_file = 'StateMergingToolkit/map_data/05_north_america.txt'
