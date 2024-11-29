@@ -54,21 +54,21 @@ def export(this, name):
     print('Exporting', name)
     state_str = f'    {name} = {{\n'
     for province in this["create_state"]:
-        state_str += f'        "create_state" = {{\n'
-        state_str += f'            "country" = {province["country"][0]}\n'
-        state_str += f'            "owned_provinces" = {{ '
+        state_str += f'        create_state = {{\n'
+        state_str += f'            country = {province["country"][0]}\n'
+        state_str += f'            owned_provinces = {{ '
         for owned_province in province["owned_provinces"]:
             state_str += f'{owned_province} '
         state_str += '}\n'
         if "state_type" in province.keys():
-            state_str += f'            "state_type" = {province["state_type"]}\n'
+            state_str += f'            state_type = {province["state_type"]}\n'
         state_str += '        }\n\n'
     if "add_homeland" in this.keys():
         for culture in this["add_homeland"]:
-            state_str += f'        "add_homeland" = {culture}\n'
+            state_str += f'        add_homeland = {culture}\n'
     if "add_claim" in this.keys():
         for country in this["add_claim"]:
-            state_str += f'        "add_claim" = {country}\n'
+            state_str += f'        add_claim = {country}\n'
     state_str += '    }\n'
 
     return state_str
