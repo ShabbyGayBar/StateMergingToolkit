@@ -61,7 +61,8 @@ def export(this, name):
             state_str += f'{owned_province} '
         state_str += '}\n'
         if "state_type" in province.keys():
-            state_str += f'            state_type = {province["state_type"]}\n'
+            for state_type in province["state_type"]:
+                state_str += f'            state_type = {state_type}\n'
         state_str += '        }\n\n'
     if "add_homeland" in this.keys():
         for culture in this["add_homeland"]:
