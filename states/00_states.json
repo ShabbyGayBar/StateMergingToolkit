@@ -448,6 +448,9 @@
                 ]
             }
         ],
+        "add_claim": [
+            "c:BIC"
+        ],
         "add_homeland": [
             "cu:baluchi",
             "cu:pashtun"
@@ -25375,6 +25378,9 @@
                 ]
             }
         ],
+        "add_claim": [
+            "c:BIC"
+        ],
         "add_homeland": [
             "cu:sindi"
         ]
@@ -25645,6 +25651,9 @@
                 ]
             }
         ],
+        "add_claim": [
+            "c:BIC"
+        ],
         "add_homeland": [
             "cu:panjabi"
         ]
@@ -25854,6 +25863,9 @@
                 ],
                 "owned_provinces": [
                     "x10B060"
+                ],
+                "state_type": [
+                    "unincorporated"
                 ]
             },
             {
@@ -25972,6 +25984,7 @@
             }
         ],
         "add_claim": [
+            "c:BIC",
             "c:KAS"
         ],
         "add_homeland": [
@@ -26079,6 +26092,9 @@
                 "owned_provinces": [
                     "xF01160",
                     "x0C6CB1"
+                ],
+                "state_type": [
+                    "unincorporated"
                 ]
             },
             {
@@ -26492,6 +26508,9 @@
                 ]
             }
         ],
+        "add_claim": [
+            "c:BIC"
+        ],
         "add_homeland": [
             "cu:assamese",
             "cu:bengali",
@@ -26845,6 +26864,9 @@
                 ],
                 "owned_provinces": [
                     "x67520F"
+                ],
+                "state_type": [
+                    "unincorporated"
                 ]
             },
             {
@@ -26853,6 +26875,9 @@
                 ],
                 "owned_provinces": [
                     "xB030A0"
+                ],
+                "state_type": [
+                    "unincorporated"
                 ]
             }
         ],
@@ -34996,6 +35021,9 @@
                 ]
             }
         ],
+        "add_claim": [
+            "c:BIC"
+        ],
         "add_homeland": [
             "cu:pashtun"
         ]
@@ -35112,6 +35140,9 @@
                     "x8C9774"
                 ]
             }
+        ],
+        "add_claim": [
+            "c:BIC"
         ],
         "add_homeland": [
             "cu:pashtun"
@@ -53879,6 +53910,9 @@
                 ]
             }
         ],
+        "add_claim": [
+            "c:BIC"
+        ],
         "add_homeland": [
             "cu:burmese",
             "cu:lushai"
@@ -53942,6 +53976,9 @@
                     "x394B7F"
                 ]
             }
+        ],
+        "add_claim": [
+            "c:BIC"
         ],
         "add_homeland": [
             "cu:pahari",
